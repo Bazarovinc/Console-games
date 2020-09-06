@@ -7,4 +7,11 @@ This console games launched like any Python programm by command python in termin
 >python bagles.py
 ```
 ### How to play
-<img align="center" src="https://github.com/Bazarovinc/REST-API/blob/master/imagies/example.jpg" width="100%" />
+<img align="center" src="https://github.com/Bazarovinc/Console-games/blob/master/imagies/bagles.jpg" width="100%" />
+## guess
+### How to start
+```
+>python guess.py
+```
+### How to play
+<img align="center" src="https://github.com/Bazarovinc/Console-games/blob/master/imagies/bagles.jpg" width="100%" />

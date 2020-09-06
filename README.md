@@ -1,7 +1,7 @@
 # Console-games
 Console games written on Python.
 This console games launched like any Python programm by command python in terminal.
-## bagles
+## Bagles
 ### Usage
 ```
 >python bagles.py
@@ -9,7 +9,7 @@ This console games launched like any Python programm by command python in termin
 ### How to play
 <img align="center" src="https://github.com/Bazarovinc/Console-games/blob/master/imagies/bagles.jpg" width="50%"/>
 
-## guess
+## Guess
 ### Usage
 ```
 >python guess.py
@@ -17,7 +17,7 @@ This console games launched like any Python programm by command python in termin
 ### How to play
 <img align="center" src="https://github.com/Bazarovinc/Console-games/blob/master/imagies/guess.jpg" width="50%" />
 
-## hangman
+## Hangman
 ### Usage
 ```
 >python hangman.py
